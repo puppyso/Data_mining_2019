@@ -1,1 +1,1 @@
-#data mining
+이게모야
